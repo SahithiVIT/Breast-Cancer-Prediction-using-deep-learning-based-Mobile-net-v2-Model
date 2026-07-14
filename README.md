@@ -213,17 +213,6 @@ Example output:
 
 ---
 
-## 👩‍💻 My Contribution
-
-This was a group project. My primary contribution was focused on:
-
-- Image preprocessing
-- Implementing data augmentation using `ImageDataGenerator`
-- Applying rotation, zoom, shift, shear, and horizontal flip transformations
-- Improving dataset diversity
-- Helping reduce model overfitting and improve generalization
-
----
 
 ## 💡 Future Improvements
 
